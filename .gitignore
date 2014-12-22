@@ -15,7 +15,8 @@ wp-content/*
 
 # Ignore everything in the "themes" directory except production themes
 wp-content/themes/*
-!wp-content/themes/explorable-child
+!wp-content/themes/monte52/
+!wp-content/themes/index.php
 
 # Theme specific dev directories to ignore
 wp-content/themes/monte52/.sass-cache/
